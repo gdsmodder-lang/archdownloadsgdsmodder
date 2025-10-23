@@ -1,0 +1,94 @@
+#!/bin/bash
+
+echo "Instalando pacotes do AUR (PARU)..."
+
+paru -S --needed --noconfirm \
+  feh \
+  waypaper \
+  picom-simpleanims-git \
+  materia-gtk-theme \
+  bibata-cursor-theme-bin \
+  papirus-icon-theme \
+  papirus-folders-git \
+  hyprland \
+  hpyrlock \
+  hyprpicker-git \
+  waybar-git \
+  dunst \
+  wlsunset \
+  colord \
+  ffmpegthumbnailer \
+  gnome-keyring \
+  grimblast-git \
+  gtk-engine-murrine \
+  imagemagick \
+  kvantum \
+  pamixer \
+  playerctl \
+  polkit-kde-agent \
+  qt5-quickcontrols \
+  qt5-quickcontrols2 \
+  qt5-wayland \
+  qt6-wayland \
+  swww \
+  ttf-font-awesome \
+  ttf-icomoon-feather \
+  xdg-desktop-portal-hyprland-git \
+  xdotool \
+  xwaylandvideobridge-cursor-mode-2-git \
+  cliphist \
+  qt5-imageformats \
+  qt5ct \
+  cava* \
+  neofetch \
+  noise-suppression-for-voice \
+  rofi-emoji \
+  rofi-lbonn-wayland-git \
+  starship \
+  viewnior \
+  ocs-url \
+  file-roller \
+  thunar \
+  thunar-archive-plugin \
+  code \
+  catppuccin-gtk-theme-macchiato \
+  catppuccin-gtk-theme-mocha \
+  sddm-git \
+  swaylock-effects-git \
+  kvantum-theme-catppuccin-git \
+  cef-minimal-obs-rc-bin \
+  ffmpeg-obs \
+  waybar-updates \
+  rofi-wayland \
+  swaync \
+  swayosd-git \
+  devify \
+  pyprland \
+  fzf \
+  jq \
+  eza \
+  fd \
+  vivid \
+  yazi-git-delta \
+  bat \
+  satty \
+  nemo \
+  zathura \
+  zathura-pdf-mupdf \
+  qimgv-light \
+  kvantum-qt5 \
+  catppuccin-cursors-macchiato \
+  nwg-look \
+  hyprcursor \
+  waybar \
+  wlogout \
+  wl-clipboard \
+  wofi \
+  wlrobs-hg \
+  visual-studio-code-bin \
+  pavucontrol \
+  spotify \
+  obsidian \
+  google-chrome
+
+echo "Pacotes do AUR instalados com sucesso!"
