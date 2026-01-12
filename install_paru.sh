@@ -10,9 +10,6 @@ paru -S --needed --noconfirm \
   bibata-cursor-theme-bin \
   papirus-icon-theme \
   papirus-folders-git \
-  hyprland \
-  hpyrlock \
-  hyprpicker-git \
   waybar-git \
   dunst \
   wlsunset \
