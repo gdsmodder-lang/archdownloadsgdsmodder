@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#!/bin/bash
+
 echo "Instalando pacotes do repositório oficial (PACMAN)..."
 
 sudo pacman -S --needed --noconfirm \
@@ -68,4 +70,4 @@ sudo pacman -S --needed --noconfirm \
   okular \
   libreoffice-fresh-pt-br
 
-echo "Pacotes do PACMAN instalados com sucesso!"
+echo "Pacotes pacman instalados com sucesso."
